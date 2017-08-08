@@ -3,5 +3,5 @@
   <component name="IpnbSettings">
     <option name="workingDirectory" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.6.2 (C:\Anaconda3\envs\py3\python.exe)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.6.2 (~/anaconda/envs/py3/bin/python)" project-jdk-type="Python SDK" />
 </project>
